@@ -5,7 +5,7 @@ Compiling:
 
 `g++ -std=c++20 -Wall -Wextra -O2 main.cpp -o main`
 
-`g++ -std=c++23 -Wall -Wextra -O2 main.cpp -o main`
+`g++ -std=c++23 -Wall -Wextra -O2 main.cpp -o main` (if c++20 doesn't work)
 
 rule checker: cpplint
 
